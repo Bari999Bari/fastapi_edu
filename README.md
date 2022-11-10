@@ -1,2 +1,2 @@
-# flask_edu
+# fastapi_edu
 Educational project
